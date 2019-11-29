@@ -30,7 +30,7 @@ https://www.facebook.com/events/2276454632593963/
 
 
 ## Álbum de fotos del MeetUp
-https://www.facebook.com/media/set/?set=oa.2689682537714585&type=3
+https://web.facebook.com/media/set/?set=oa.3058573154158853&type=3
 
 ## Sponsors
 
