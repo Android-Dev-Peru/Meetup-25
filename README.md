@@ -5,22 +5,19 @@ How to build a video app | Testing Basics on Android | Patrones de diseño del l
 
 - **Principios How to build a video app - Daniel Peñaloza**
 
-Slide : 
+Slide : https://drive.google.com/open?id=1w0vnTQTBjdAr_9UPuDs3IIkgB1o5dCGj
 
-Repo  : 
+Repo  : https://github.com/DanP1925/MeetupVideoArch
 
 
 - **Testing Basics on Android - Gianfranco Yosida**
 
-Slide : 
+Slide : https://drive.google.com/open?id=1BXMdxtg0xLRj9wZJvk5y639xJzLkQYET
 
-Repo  : 
 
 - **Patrones de diseño del lado de la presentación: mvp y mvvm. - Daniel Barquero**
 
-Slide : 
-
-Repo  : 
+Slide : https://drive.google.com/open?id=17dANjorKF4DKTeZ11inIIgGlrwu4RGunMEidYktlOBw
 
 
 ## Organización 
