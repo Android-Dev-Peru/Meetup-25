@@ -3,7 +3,7 @@ How to build a video app | Testing Basics on Android | Patrones de diseño del l
 
 ## Charlas :
 
-- **Principios How to build a video app - Daniel Peñaloza **
+- **Principios How to build a video app - Daniel Peñaloza**
 
 Slide : 
 
